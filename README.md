@@ -242,9 +242,4 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 Create a new Pull Request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-For questions or support, please contact yourname@yourdomain.com.
-
 This template provides a clear and structured format for your README file, ensuring that users and collaborators can easily understand and use your DevSecOps-Azure project. Adjust the content as necessary to fit the specifics of your project.
